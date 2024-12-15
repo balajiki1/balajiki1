@@ -3,6 +3,8 @@
 
 💻 A passionate Full Stack Developer and Master’s in Information Systems student at Northeastern University, graduating in May 2026.
 
+
+
 🌟 What I Do
 
 
@@ -16,6 +18,8 @@
 
 
 -Collaborate in Agile teams to deliver robust applications for HRMS, sales, e-commerce, and recruitment platforms.
+
+
 
 
 🔧 Technical Expertise
@@ -34,6 +38,8 @@
 -Other Tools: GitHub, Bitbucket, Figma
 
 
+
+
 🌍 Featured Projects
 -Erecruiter Platform: A recruitment management system with OTP authentication and email notifications using React and Node.js.
 
@@ -47,9 +53,17 @@
 -Sales and Distribution Application: Designed and developed a user-friendly sales application with React and MySQL.
 
 
+
+
 🚀 Passion
 I’m driven by the vision of leveraging technology to create impactful solutions. My long-term goal is to launch my own tech startup.
 
+
+
 📫 Let’s Connect!
+
+
 💼 LinkedIn(https://www.linkedin.com/in/kishore--balaji/)
+
+
 📧 balaji.ki@northeastern.edu
