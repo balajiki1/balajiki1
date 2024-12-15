@@ -23,6 +23,8 @@
 
 
 🔧 Technical Expertise
+
+
 -Frontend: React, Vue.js, Angular, Ionic, Material-UI, Bootstrap
 
 
