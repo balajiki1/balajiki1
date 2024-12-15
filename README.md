@@ -41,7 +41,9 @@
 
 
 🌍 Featured Projects
--Erecruiter Platform: A recruitment management system with OTP authentication and email notifications using React and Node.js.
+
+
+-Erecruiter Platform: A recruitment management system with OTP authentication and email notifications using React and Node.js - Website Link(https://erecruiter.netlify.app).
 
 
 -HRMS Module: Full-cycle development of an HRMS and time management system using Angular and PostgreSQL.
